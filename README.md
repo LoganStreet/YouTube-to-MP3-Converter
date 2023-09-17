@@ -1,3 +1,6 @@
+
+![image](https://github.com/LoganStreet/YouTube-to-Mp3-Converter/assets/131358776/8d18df0b-ede9-49d4-a2c1-fd5a96562662)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
